@@ -22,3 +22,4 @@ console.log(displayDiscount+"");
 var result=listingPrice>sellingPrice;
 
 console.log(typeof result);
+console.log(result);
